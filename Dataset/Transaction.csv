@@ -1,0 +1,11 @@
+transaction_id,customer_id,product_name,transaction_date
+11,105,iPhone SE,2/1/2022
+12,106,iPhone SE,2/2/2022
+13,107,AirPods Pro,2/3/2022
+14,105,AirPods Pro,2/4/2022
+15,108,iPhone SE,2/5/2022
+16,106,MacBook Air,2/6/2022
+17,107,iPhone SE,2/7/2022
+18,105,MacBook Air,2/8/2022
+19,108,AirPods Pro,2/9/2022
+20,106,AirPods Pro,2/10/2022

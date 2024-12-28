@@ -46,7 +46,7 @@ Delta Table: The processed data is also loaded into a Delta table for fast query
 Folder Structure:
 
 ├── Data
-│   ├── raw
+│   ├── raw data --> https://drive.google.com/drive/u/1/folders/1h8mdfRH3fbZhfzQ5CEt3ncz9xf0jMaYE 
 │ 
 ├── Extract
 │   ├── extractor.ipynb

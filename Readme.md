@@ -1,7 +1,7 @@
-PySpark ETL Pipelines with Factory Pattern
+## PySpark ETL Pipelines with Factory Pattern
 
 
-Project Overview:
+## Project Overview:
 This project demonstrates the creation of multiple ETL (Extract, Transform, Load) pipelines using the Python API of Apache Spark, PySpark, within the DataBricks environment. The goal of the project is to process and transform data from various sources (CSV, Delta tables) and load the processed data into DBFS (Databricks File System) and Delta tables. The project also implements the Factory Design Pattern to streamline the creation of different data source readers for flexibility and scalability.
 
 Key Features:

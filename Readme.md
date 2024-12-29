@@ -45,22 +45,22 @@ The processed data is loaded into the following storage locations:
 
 **Folder Structure:**
 
-├── Data
-│   ├── raw data  
-│ 
-├── Extract
-│   ├── extractor.ipynb
-│   ├── reader_factory.ipynb
-│   
-├── Transformer
-│   ├── transform.ipynb
-│ 
-├── Load
-│   ├── loader.ipynb
-│   ├── loader_factory.ipynb
-│
-├── Main_Analysis
-│   ├── apple_analysis.ipynb
+├── Data \
+│   ├── raw data  \
+│ \
+├── Extract \
+│   ├── extractor.ipynb \
+│   ├── reader_factory.ipynb \
+│ \
+├── Transformer \
+│   ├── transform.ipynb \
+│ \
+├── Load \
+│   ├── loader.ipynb \
+│   ├── loader_factory.ipynb \
+│ \
+├── Main_Analysis \
+│   ├── apple_analysis.ipynb \
     
 
 ## Conclusion:

@@ -5,16 +5,16 @@
 This project demonstrates the creation of multiple ETL (Extract, Transform, Load) pipelines using the Python API of Apache Spark, PySpark, within the DataBricks environment. The goal of the project is to process and transform data from various sources (CSV, Delta tables) and load the processed data into DBFS (Databricks File System) and Delta tables. The project also implements the Factory Design Pattern to streamline the creation of different data source readers for flexibility and scalability.
 
 ## Key Features:
-**Data Sources:** CSV files and Delta tables
-**Design Pattern:** Factory Pattern to abstract data reading logic
-**Transformation Logic:** Applied using PySpark DataFrame API and Spark SQL
-**Data Loading:** Writing data to DBFS and Delta tables
+**Data Sources:** CSV files and Delta tables \
+**Design Pattern:** Factory Pattern to abstract data reading logic \
+**Transformation Logic:** Applied using PySpark DataFrame API and Spark SQL \
+**Data Loading:** Writing data to DBFS and Delta tables \
 **Scalability:** Designed to handle large volumes of data efficiently in Databricks.
 
 ## Technology Stack:
-Apache Spark (PySpark)
-DataBricks (for managing the cluster and running ETL pipelines)
-Python (for scripting the ETL logic)
+Apache Spark (PySpark) \
+DataBricks (for managing the cluster and running ETL pipelines) \
+Python (for scripting the ETL logic) 
 
 ## Architecture:
 **1. Extract**
